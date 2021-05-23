@@ -56,4 +56,4 @@ Even if the data is processed, it is good to give a reference to the
 original source:
 
 USDA, NRCS. 2008. The PLANTS Database (http://plants.usda.gov/, 31 
-December 2008). National Plant Data Center, Baton Rouge, LA 70874-4490 USA
+December 2008). National Plant Data Center, Baton Rouge, LA 70874-4490 USA.
